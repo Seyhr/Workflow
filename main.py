@@ -1,4 +1,4 @@
 def test():
-print("Missing indent")  # actual error
+  print("Missing indent")  # actual error
 
 test()
